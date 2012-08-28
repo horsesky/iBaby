@@ -14,10 +14,10 @@
 #
 development:
   adapter: postgresql
-  encoding: unicode
-  database: iBaby_development
+  encoding: utf8
+  database: iBaby
   pool: 5
-  username: root
+  username: postgres
   password: root
 
   # Connect on a TCP socket. Omitted by default since the client uses a

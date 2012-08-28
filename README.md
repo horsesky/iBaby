@@ -1,4 +1,4 @@
 iBaby
 =====
 
-a website for my baby
+a website for my lovely baby
